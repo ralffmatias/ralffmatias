@@ -1,10 +1,10 @@
-Hi 👋 My name is Ralff Matias
+Hi, 👋 I'm Ralff Matias
 ==========================
 
 SQL Server Developer
+-----------------------------
 Data Analyst
 -----------------------------
-### Hi, I'm Ralff Matias
 
 <!--
 **ralffmatias/ralffmatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
