@@ -1,4 +1,4 @@
-Hi, 👋 I'm Ralff Matias
+Hi, I'm Ralff Matias
 ==========================
 
 SQL Server Developer
