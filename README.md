@@ -12,8 +12,6 @@ I'm a 26 years old, i got to know the world of programming last year. I love to 
 
 * ✉️  You can contact me at [ralff.mat22@gmail.com]
 
-(ralff.mat22@gmail.com)
-
 * 🚀  I'm currently working as a freelacer
 
 * 🧠  I'm specializing in SQL Server and learning python and business intelligence(BI)
@@ -22,3 +20,7 @@ I'm a 26 years old, i got to know the world of programming last year. I love to 
 
 * 🎧  I love music and i like many styles
 
+<a href="https://www.github.com/ralffmatias" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ralffmatias?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+### Skills
