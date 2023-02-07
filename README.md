@@ -6,17 +6,19 @@ SQL Server Developer
 Data Analyst
 -----------------------------
 
-<!--
-**ralffmatias/ralffmatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 26 years old, i got to know the world of programming last year. I love to code and figure it out how to solve deep problems using tech. My main focus is data analytics. Analyzing data and automating processes with aim of solve business problems.
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Brasilia, Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✉️  You can contact me at [ralff.mat22@gmail.com]
+
+(ralff.mat22@gmail.com)
+
+* 🚀  I'm currently working as a freelacer
+
+* 🧠  I'm specializing in SQL Server and learning python and business intelligence(BI)
+
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+
+* 🎧  I love music and i like many styles
+
