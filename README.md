@@ -48,4 +48,4 @@ src="https://img.shields.io/github/followers/ralffmatias?logo=github&style=for-t
 
 <a href="http://www.github.com/ralffmatias"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ralffmatias&bg_color=171717&color=ffffff&line=ff7f00&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ralffmatias" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=ralffmatias&layout=compact&title_color=ff7f00&hide=css,objective-c,html&text_color=ffffff&icon_ff7f00&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ralffmatias" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=ralffmatias&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
