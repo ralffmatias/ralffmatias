@@ -20,6 +20,11 @@ I'm 26 years old, i got to know the world of programming last year. I love to co
 
 * 🎧  I love music and i like many styles
 
+<p align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/ralffmatias/ralffmatias/master/terminal.gif" alt="Aqui está um pouco sobre mim!">
+
+
 <a href="https://www.github.com/ralffmatias" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ralffmatias?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
