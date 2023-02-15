@@ -24,19 +24,20 @@ I'm 26 years old, i got to know the world of programming last year. I love to co
 src="https://img.shields.io/github/followers/ralffmatias?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
-<p align="left">
-<a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="99" height="32" alt="Python" /></a>
-<a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL%20Server-blue?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=black" width="99" height="32" alt="SQLServer" /></a>
 
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20BI-ffc222?style=for-the-badge&logo=PowerBI&logoColor=black" width="99" height="32" alt="PowerBI" /></a>
-<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width="99" height="32" alt="Pandas" /></a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="pandas" width="36" height="36"/> </a>
 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="36" height="36"/> </a>
+<a href="https: //www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg " alt="oracle" width="36" height="36"/> </a>
+</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
 
 ### Socials
-<p align="left"> 
+
 <a href="https://www.github.com/ralffmatias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/ralff-matias-0a378b252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://instagram.com/ralffmatias?igshid=ZDdkNTZiNTM=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-  
+<p align="center">
   
 ### Badges
 
