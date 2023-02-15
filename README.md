@@ -5,6 +5,9 @@ SQL Server Developer
 -----------------------------
 Data Analyst
 -----------------------------
+<p align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/ralffmatias/ralffmatias/master/terminal.gif" alt="Aqui está um pouco sobre mim!" width="600" height="300" >
 
 I'm 26 years old, i got to know the world of programming last year. I love to code and figure it out how to solve deep problems using tech. My main focus is data analytics. Analyzing data and automating processes with aim of solve business problems.
 
@@ -33,10 +36,6 @@ src="https://img.shields.io/github/followers/ralffmatias?logo=github&style=for-t
 <a href="https: //www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg " alt="oracle" width="50" height="50"/> </a>
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 
-<p align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/ralffmatias/ralffmatias/master/terminal.gif" alt="Aqui está um pouco sobre mim!" width="600" height="300" >
-  
 ### Socials
 
 <a href="https://www.github.com/ralffmatias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
