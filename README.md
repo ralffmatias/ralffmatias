@@ -13,7 +13,7 @@ I'm 26 years old, i got to know the world of programming last year. I love to co
 
 * 🌍  I'm based in Brasilia, Brazil
 
-* ✉️  You can contact me at [ralff.mat22@gmail.com]
+* ✉️  You can contact me at[ralff.mat22@gmail.com]
 
 * 🚀  I'm currently working as a freelacer
 
