@@ -9,7 +9,7 @@ Data Analyst
 <br/>
 <img src="https://raw.githubusercontent.com/ralffmatias/ralffmatias/master/folder/Terminal.gif" alt="Aqui está um pouco sobre mim!" width="350" height="250" >
 
-I'm 26 years old, i got to know the world of programming last year. I love to code and figure it out how to solve deep problems using tech. My main focus is data analytics. Analyzing data and automating processes with aim of solve business problems.
+I'm 28 years old. I love to code and figure it out how to solve deep problems using tech. My main focus is data analytics. Analyzing data and automating processes with aim of solve business problems.
 
 * 🌍  I'm based in Brasilia, Brazil
 
