@@ -46,8 +46,8 @@ src="https://img.shields.io/github/followers/ralffmatias?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ralffmatias"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=ralffmatias&show_icons=true&hide=&count_private=true&title_color=ff7f00&text_color=ffffff&icon_color=ff7f00&bg_color=171717&hide_border=true&show_icons=true" alt="ralffmatias's GitHub stats" /></a>
+<a href="http://www.github.com/ralffmatias"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ralffmatias&show_icons=true&locale=en&layout=compact" /></a>
 
 <a href="http://www.github.com/ralffmatias"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ralffmatias&stroke=ffffff&background=171717&ring=ff7f00&fire=ff7f00&currStreakNum=ffffff&currStreakLabel=ff7f00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ralffmatias" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=ralffmatias&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ralffmatias" align="left"><img src="https://github-readme-stats.vercel.app/api?username=ralffmatias&show_icons=true&locale=en" alt="Top Languages" /></a>
