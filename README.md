@@ -13,7 +13,7 @@ I'm 28 years old. I love to code and figure it out how to solve deep problems us
 
 * 🌍  I'm based in Brasilia, Brazil
 
-* ✉️  You can contact me at: ralff.mat22@gmail.com
+* ✉️  You can contact me <a href="ralff.mat22@gmail.com" target="_blank">here</a>!
 
 * 🚀  I'm currently working as a freelacer
 
