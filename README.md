@@ -7,7 +7,7 @@ Data Analyst
 -----------------------------
 <p align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/ralffmatias/ralffmatias/master/folder/Terminal.jpeg" alt="Aqui está um pouco sobre mim!" width="350" height="250" >
+<img src="https://raw.githubusercontent.com/ralffmatias/ralffmatias/master/folder/Terminal.jpeg" alt="Aqui está um pouco sobre mim!" width="450" height="280" >
 
 I'm 28 years old. I love to code and figure it out how to solve deep problems using tech. My main focus is data analytics. Analyzing data and automating processes with aim of solve business problems.
 
